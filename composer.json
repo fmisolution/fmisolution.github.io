@@ -1,5 +1,5 @@
 {
-    "name": "priyansh/itcompany",
+    "name": "fmisolution/fmisolution",
     "autoload": {
         "psr-4": {
             "Priyansh\\Itcompany\\": "src/"
